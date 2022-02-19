@@ -92,13 +92,39 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
 ## Deliverable 2 - Determine Bias of Vine Reviews
+
+## **Total Vount Count Equal or Greater Than 20**
+
+![Deliverable 2 - Votes Greater Than 20](https://user-images.githubusercontent.com/92111396/154816890-aee9d886-d006-4e6c-80ff-edd0b87c6712.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Votes%20Greater%20Than%2020.png
+
+
+## **Percentage of Helpful Votes Greater Than 50%**
+
+![Deliverable 2 - Percentage of Helpful Votes Greater Than 50%](https://user-images.githubusercontent.com/92111396/154816947-11a4d0c0-9159-43a0-a5c6-77a8c8d30372.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Percentage%20of%20Helpful%20Votes%20Greater%20Than%2050%25.png
+
+
+## **Number Of Reviews Part of Vine (Paid) Programme*
+
+![Deliverable 2 - Review Part of Vine (Paid) Programme](https://user-images.githubusercontent.com/92111396/154816950-de1eeb18-f38d-4bc5-8283-900fe65b7ba7.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Review%20Part%20of%20Vine%20(Paid)%20Programme.png
+
+
+## **Number Of Reviews Not Part of Vine (Unpaid) Programme**
+
+![Deliverable 2 - Review Not Part of Vine (Unpaid) Programme](https://user-images.githubusercontent.com/92111396/154816953-057a6c90-8522-45e9-94dc-205df2a3ce52.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Review%20Not%20Part%20of%20Vine%20(Unpaid)%20Programme.png
+
+
+## **Analysis of Paid & Unpaid Reviews**
+
+![Deliverable 2 - Analysis of Paid   Unpaid Reviews](https://user-images.githubusercontent.com/92111396/154816957-ada6f424-a81a-4ac5-af64-24f11088d678.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Analysis%20of%20Paid%20%26%20Unpaid%20Reviews.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## Deliverable 3 - A Written Report on the Analysis
 
