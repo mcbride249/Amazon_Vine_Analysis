@@ -134,7 +134,7 @@ The anlysis focussed on answering the following questions:
 
 1. How many Vine reviews and non-Vine reviews were there?
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-4. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?
+3. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -143,7 +143,7 @@ The anlysis focussed on answering the following questions:
 
 ##**1. How many Vine reviews and non-Vine reviews were there?**
 
-There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. There was a total of 107 Vine (paid) reviews and a toal of 39,869 non-Vine (unpaid) reviews.
+There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. There was a total of 107 Vine (paid) reviews and a total of 39,869 non-Vine (unpaid) reviews.
 
 ![Deliverable 3 - Total Paid Reviews](https://user-images.githubusercontent.com/92111396/154817755-e9906df7-b7fa-4b15-b8e8-bd5603441eda.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Paid%20Reviews.png
@@ -155,7 +155,27 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ##**2. How many Vine reviews were 5 stars?**
 
-There were a total of 21,061 5 star reviews consisting of both Vine and non-Vine reviews. There was a total of 56 Vine (paid) 5 star reviews and a toal of 21,061 non-Vine (unpaid) 5 star reviews.
+There were a total of 21,061, 5 star reviews consisting of both Vine and non-Vine 5 star reviews. There was a total of 56 Vine (paid) 5 star reviews and a total of 21,061 non-Vine (unpaid) 5 star reviews.
+
+![Deliverable 3 - Total Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154817980-8586f7d7-b472-4aa1-8b7c-d24e087ee34a.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Paid%205%20Star%20Reviews.png
+
+
+![Deliverable 3 - Total Unpaid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154817985-89681e65-cc18-45d0-84a8-120269f5f23e.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Unpaid%205%20Star%20Reviews.png
+
+
+##**3. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?**
+
+The percentage 5 star reviews for Vine (paid) participants was 52.3364 percent, while the percentage of 5 star reviews of non-Vine (unpaid) partcipants was 52.6850 percent.
+
+![Deliverable 3 - Percentage of Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154818114-caaf0356-37da-4284-90f4-2d9b72478436.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Percentage%20of%20Paid%205%20Star%20Reviews.png
+
+
+![Deliverable 3 - Percentage of Unpaid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154818123-9a5a7b60-d1f3-4711-8c11-5af2d8527ae2.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Percentage%20of%20Unpaid%205%20Star%20Reviews.png
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
