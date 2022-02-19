@@ -94,7 +94,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ## Deliverable 2 - Determine Bias of Vine Reviews
 
-## **Total Vount Count Equal or Greater Than 20**
+## **Total Vount Count Equal To or Greater Than 20**
 
 ![Deliverable 2 - Votes Greater Than 20](https://user-images.githubusercontent.com/92111396/154816890-aee9d886-d006-4e6c-80ff-edd0b87c6712.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Votes%20Greater%20Than%2020.png
@@ -106,7 +106,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Percentage%20of%20Helpful%20Votes%20Greater%20Than%2050%25.png
 
 
-## **Number Of Reviews Part of Vine (Paid) Programme*
+## **Number Of Reviews Part of Vine (Paid) Programme**
 
 ![Deliverable 2 - Review Part of Vine (Paid) Programme](https://user-images.githubusercontent.com/92111396/154816950-de1eeb18-f38d-4bc5-8283-900fe65b7ba7.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Review%20Part%20of%20Vine%20(Paid)%20Programme.png
