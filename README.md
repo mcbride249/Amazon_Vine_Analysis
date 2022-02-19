@@ -33,45 +33,61 @@ A snapshot of the code completed dataframes that were imported into their repsec
  ## **Customers Dataframe and Table**
 
 
+## **Customers Dataframe**
+
 ![Deliverable 1 - customers_df](https://user-images.githubusercontent.com/92111396/154816334-2ab99334-1bdf-4b5a-91e6-045320176ba4.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20customers_df.png
 
 
+## **Customers Table**
 
 ![Deliverable 1 - customers_table](https://user-images.githubusercontent.com/92111396/154816343-cb486276-eba8-4154-84cf-7eee2383989f.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20customers_table.png
 
 
 
- ## **Products Dataframe and Table**
+## **Products Dataframe and Table**
  
+## **Products Dataframe**
 
 ![Deliverable 1 - products_df](https://user-images.githubusercontent.com/92111396/154816397-72586f4f-f232-4f0c-8910-a6ba81add951.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20products_df.png
 
 
+## **Products Table**
 
 ![Deliverable 1 - products_table](https://user-images.githubusercontent.com/92111396/154816400-4840bde1-af51-4311-84f2-bc97cbdff912.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20products_table.png
 
 
 
- ## **Review ID Dataframe and Table**
+## **Review ID Dataframe and Table**
  
+## **Review ID Dataframe**
  
 ![Deliverable 1 - review_id_df](https://user-images.githubusercontent.com/92111396/154816406-5cc77055-ccb2-4a16-ac14-aec9cdf34107.png)
- 
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20review_id_df.png
 
+
+## **Review ID Table**
 
 ![Deliverable 1 - review_id_table](https://user-images.githubusercontent.com/92111396/154816410-748fd994-4844-485e-9b26-b855884a4520.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20review_id_table.png
 
 
 
-# **Vine Dataframe and Table**
+## **Vine Dataframe and Table**
 
+## **Vine Dataframe**
 
 ![Deliverable 1 - vine_df](https://user-images.githubusercontent.com/92111396/154816415-620523e4-67f3-4a0e-8b69-b62501b3c109.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20vine_df.png
 
 
+## **Vine Table**
 
 ![Deliverable 1 - vine_table](https://user-images.githubusercontent.com/92111396/154816418-598340ea-757b-4124-bd6f-a1b2d2e7c9ee.png)
-
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%201%20-%20vine_table.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
