@@ -125,7 +125,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ## Deliverable 3 - A Written Report on the Analysis
 
- ## **Purpose**
+## **Purpose**
 
 The purpose of this challenge was to analayze Amazon reviews written by members of the paid Amazon Vine programme. The dataset that was selected for anlaysis was the "Outdoors" dataset. The analysis involved using PySpark to perform the extract, transform, load (ETL) process to extract the data the dataset, transform the data and then connect to an AWS RDS instance, and load the transformed data into pgAdmin. Once the ETL process had been completed, PySPark was continued to be used for analysis to determine if there is any bias toward favorable reviews from Vine members in the "Outdoors" dataset. 
 
@@ -133,19 +133,17 @@ The purpose of this challenge was to analayze Amazon reviews written by members 
 The anlysis focussed on answering the following questions:
 
 1. How many Vine reviews and non-Vine reviews were there?
-2. How many Vine reviews were 5 stars? 
-3. How many non-Vine reviews were 5 stars?
-4. What percentage of Vine reviews were 5 stars?
-5. What percentage of non-Vine reviews were 5 stars
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+4. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- ## **Results**
+## **Results**
 
-1. How many Vine reviews and non-Vine reviews were there?
+##**1. How many Vine reviews and non-Vine reviews were there?**
 
-There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. There was a total of 107 Vine (paid) reeview and a toal of 39,869 non-Vine (unpaid reviews).
+There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. There was a total of 107 Vine (paid) reviews and a toal of 39,869 non-Vine (unpaid) reviews.
 
 ![Deliverable 3 - Total Paid Reviews](https://user-images.githubusercontent.com/92111396/154817755-e9906df7-b7fa-4b15-b8e8-bd5603441eda.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Paid%20Reviews.png
@@ -154,6 +152,10 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 ![Deliverable 3 - Total Unpaid Reviews](https://user-images.githubusercontent.com/92111396/154817759-6abf20e4-84b8-40e0-82d0-af76423dcd09.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Unpaid%20Reviews.png
 
+
+##**2. How many Vine reviews were 5 stars?**
+
+There were a total of 21,061 5 star reviews consisting of both Vine and non-Vine reviews. There was a total of 56 Vine (paid) 5 star reviews and a toal of 21,061 non-Vine (unpaid) 5 star reviews.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
