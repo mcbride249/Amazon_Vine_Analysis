@@ -145,7 +145,9 @@ The analysis focussed on answering the following questions:
 ##**1. How many Vine reviews and non-Vine reviews were there?**
 
 -There was a total of 39,976 reviews consisting of both Vine and non-Vine reviews. 
+
 -There was a total of 107 Vine (paid) reviews. 
+
 -There was a total of 39,869 non-Vine (unpaid) reviews.
 
 ![Deliverable 3 - Total Paid Reviews](https://user-images.githubusercontent.com/92111396/154817755-e9906df7-b7fa-4b15-b8e8-bd5603441eda.png)
@@ -159,7 +161,9 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 ##**2. How many Vine reviews were 5 stars?**
 
 -There was a total of 21,061, 5 star reviews consisting of both Vine and non-Vine 5 star reviews. 
+
 -There was a total of 56 Vine (paid) 5 star reviews. 
+
 -There was a total of 21,061 non-Vine (unpaid) 5 star reviews.
 
 ![Deliverable 3 - Total Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154817980-8586f7d7-b472-4aa1-8b7c-d24e087ee34a.png)
@@ -173,6 +177,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 ##**3. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?**
 
 -The percentage 5 star reviews for Vine (paid) participants was 52.3364 percent. 
+
 -The percentage of 5 star reviews of non-Vine (unpaid) participants was 52.6850 percent.
 
 ![Deliverable 3 - Percentage of Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154818114-caaf0356-37da-4284-90f4-2d9b72478436.png)
