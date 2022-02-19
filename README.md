@@ -93,7 +93,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ## **Total Vount Count Equal To or Greater Than 20**
 
-![Deliverable 2 - Votes Greater Than 20](https://user-images.githubusercontent.com/92111396/154816890-aee9d886-d006-4e6c-80ff-edd0b87c6712.png)
+![Deliverable 2 - Votes Greater Than 20](https://user-images.githubusercontent.com/92111396/154819291-c72f2863-b201-41fd-9073-4badb6d25497.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%202%20-%20Votes%20Greater%20Than%2020.png
 
 
