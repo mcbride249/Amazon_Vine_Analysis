@@ -24,7 +24,7 @@ The purpose of this project was to use "big data" to help a client, $ellby, opti
 
 ## Deliverable 1 – Perform ETL on Amazon Product Reviews
 
-A snapshot of the code completed dataframes that were imported into their repsective tables on pgAdmin 4 can be found below.
+A snapshot of the code completed dataframes that were imported into their respective tables on pgAdmin 4 can be found below.
 
 
  ## **Customers Dataframe and Table**
@@ -127,14 +127,15 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ## **Purpose**
 
-The purpose of this challenge was to analayze Amazon reviews written by members of the paid Amazon Vine programme. The dataset that was selected for anlaysis was the "Outdoors" dataset. The analysis involved using PySpark to perform the extract, transform, load (ETL) process to extract the data the dataset, transform the data and then connect to an AWS RDS instance, and load the transformed data into pgAdmin. Once the ETL process had been completed, PySPark was continued to be used for analysis to determine if there is any bias toward favorable reviews from Vine members in the "Outdoors" dataset. 
+The purpose of this challenge was to analyze Amazon reviews written by members of the paid Amazon Vine programme. The dataset that was selected for analysis was the "Outdoors" dataset. The analysis involved using PySpark to perform the extract, transform, load (ETL) process to extract the data the dataset, transform the data and then connect to an AWS RDS instance, and load the transformed data into pgAdmin. Once the ETL process had been completed, PySPark was continued to be used for analysis to determine if there is any bias toward favorable reviews from Vine members in the "Outdoors" dataset. 
 
 
-The anlysis focussed on answering the following questions:
+The analysis focussed on answering the following questions:
 
 1. How many Vine reviews and non-Vine reviews were there?
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 3. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -143,7 +144,7 @@ The anlysis focussed on answering the following questions:
 
 ##**1. How many Vine reviews and non-Vine reviews were there?**
 
--There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. 
+-There was a total of 39,976 reviews consisting of both Vine and non-Vine reviews. 
 -There was a total of 107 Vine (paid) reviews. 
 -There was a total of 39,869 non-Vine (unpaid) reviews.
 
@@ -157,7 +158,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ##**2. How many Vine reviews were 5 stars?**
 
--There were a total of 21,061, 5 star reviews consisting of both Vine and non-Vine 5 star reviews. 
+-There was a total of 21,061, 5 star reviews consisting of both Vine and non-Vine 5 star reviews. 
 -There was a total of 56 Vine (paid) 5 star reviews. 
 -There was a total of 21,061 non-Vine (unpaid) 5 star reviews.
 
@@ -172,7 +173,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 ##**3. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?**
 
 -The percentage 5 star reviews for Vine (paid) participants was 52.3364 percent. 
--The percentage of 5 star reviews of non-Vine (unpaid) partcipants was 52.6850 percent.
+-The percentage of 5 star reviews of non-Vine (unpaid) participants was 52.6850 percent.
 
 ![Deliverable 3 - Percentage of Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154818114-caaf0356-37da-4284-90f4-2d9b72478436.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Percentage%20of%20Paid%205%20Star%20Reviews.png
@@ -186,10 +187,9 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ## **Summary**
 
-1.
+1. Based on the results, we can conclude that there does not appear to be any positivity bias as to whether the paid Vine participants are producing more positive reviews of products compared to the non-Vine (unpaid) participants. A similar percentage of both paid and unpaid groups reviewed the products as 5 stars; in fact, a slightly greater portion of unpaid reviewers (52.68%), rated the products as 5 stars compared to only 52.33% of Vine members. Excluding statistical testing that could be done to determine if the sample sizes were large enough based on overall Vine participation, we can conclude that there does not appear to be any statistical positivity bias for Vine participants when it comes to providing 5 star reviews for the Outdoor products as there is a similar percentage of of paid and unpaid reviewers who gave the products a 5 star review.
 
-
-
+2. To further gain clarity on the data and ensure there is in fact no positivity bias, we should expand our analysis to include 4 star reviews, as this also shows positivity towards a product. Additionally, we could compare the total number Vine participants who reviewed products for this dataset to the total membership in the Vine programme and determine what the overall percentage of those 5 star reviews is for Vine members for all products compared to non-Vine members. Additionally, we could calculate the mean, median, and mode of 5 star reviews within our own data set for both groups (paid vs unpaid) to more accurately visualize the distribution of the two groups and any discrepancies between them.
 
 
 
