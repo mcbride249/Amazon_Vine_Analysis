@@ -4,9 +4,7 @@
 
 ## **Project Overview**
 
-The purpose of this project was to use "big data" to help a client, $ellby, optimize their marketing efforts through. $ellby is about to release a large catalogue of products on a leading retail website and would like to know how the reviews of their products compare to the reviews of similar products sold by their competitors. They are also interested in enrolling in a programme that gives out free products to select reviewers but would like us to determine based on our analysis of "big data", if it is worth the cost. As there are thousands of reviews, which are in mostly in text and are not numbers, it is our job to translate them in order to analyze them for our client $ellby. This analysis was to be done using "Google Colab" to run the code, mainly using PySpark, a big data tool that was used for all data processing, Amazon Web Services to store the data in the cloud, and pgAdmin to perform queries of the data locally.
-
-
+The purpose of this project was to use "big data" to help a client, $ellby, optimize their marketing efforts through. $ellby is about to release a large catalogue of products on a leading retail website and would like to know how the reviews of their products compare to the reviews of similar products sold by their competitors. They are also interested in enrolling in a programme that gives out free products to select reviewers but would like us to determine based on our analysis of "big data", if it is worth the cost. As there are thousands of reviews, which are in mostly in text and are not numbers, it is our job to translate them in order to analyze them for our client $ellby. This analysis was to be done using "Google Colab" to run the code, mainly using PySpark, a big data tool that was used for all data processing, Amazon Web Services (AWS) to store the data in the cloud, and pgAdmin to perform queries of the data locally.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +15,6 @@ The purpose of this project was to use "big data" to help a client, $ellby, opti
 -Software: Python 3.7.10, Visual Studio Code, 1.38.1, pgAdmin 4, colab.research.google.com, aws.amazon.com.
 
 -Resources: https://colab.research.google.com/notebooks/welcome.ipynb, stackoverflow.com, https://spark.apache.org/docs/latest/api/python/.
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -130,21 +127,32 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
  ## **Purpose**
 
-The purpose of this challenge  was to help Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team in production of AutosRUs’ newest prototype, the MechaCar. The MechaCar is currently suffering from production troubles that are blocking the manufacturing team’s progress, and upper management has directed Jeremy and his team to assist. 
+The purpose of this challenge was to analayze Amazon reviews written by members of the paid Amazon Vine programme. The dataset that was selected for anlaysis was the "Outdoors" dataset. The analysis involved using PySpark to perform the extract, transform, load (ETL) process to extract the data the dataset, transform the data and then connect to an AWS RDS instance, and load the transformed data into pgAdmin. Once the ETL process had been completed, PySPark was continued to be used for analysis to determine if there is any bias toward favorable reviews from Vine members in the "Outdoors" dataset. 
 
-In this challenge, we were tasked to assist Jeremy and the data analytics team do the following:
 
-1. Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
-2. Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
-3. Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
-4. Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a    summary interpretation of the findings.
+The anlysis focussed on answering the following questions:
+
+1. How many Vine reviews and non-Vine reviews were there?
+2. How many Vine reviews were 5 stars? 
+3. How many non-Vine reviews were 5 stars?
+4. What percentage of Vine reviews were 5 stars?
+5. What percentage of non-Vine reviews were 5 stars
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ## **Results**
 
+1. How many Vine reviews and non-Vine reviews were there?
 
+There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. There was a total of 107 Vine (paid) reeview and a toal of 39,869 non-Vine (unpaid reviews).
+
+![Deliverable 3 - Total Paid Reviews](https://user-images.githubusercontent.com/92111396/154817755-e9906df7-b7fa-4b15-b8e8-bd5603441eda.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Paid%20Reviews.png
+
+
+![Deliverable 3 - Total Unpaid Reviews](https://user-images.githubusercontent.com/92111396/154817759-6abf20e4-84b8-40e0-82d0-af76423dcd09.png)
+https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Unpaid%20Reviews.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
