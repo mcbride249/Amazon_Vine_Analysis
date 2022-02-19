@@ -143,7 +143,9 @@ The anlysis focussed on answering the following questions:
 
 ##**1. How many Vine reviews and non-Vine reviews were there?**
 
-There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. There was a total of 107 Vine (paid) reviews and a total of 39,869 non-Vine (unpaid) reviews.
+-There were a total of 39,976 reviews consisting of both Vine and non-Vine reviews. 
+-There was a total of 107 Vine (paid) reviews. 
+-There was a total of 39,869 non-Vine (unpaid) reviews.
 
 ![Deliverable 3 - Total Paid Reviews](https://user-images.githubusercontent.com/92111396/154817755-e9906df7-b7fa-4b15-b8e8-bd5603441eda.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Paid%20Reviews.png
@@ -155,7 +157,9 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ##**2. How many Vine reviews were 5 stars?**
 
-There were a total of 21,061, 5 star reviews consisting of both Vine and non-Vine 5 star reviews. There was a total of 56 Vine (paid) 5 star reviews and a total of 21,061 non-Vine (unpaid) 5 star reviews.
+-There were a total of 21,061, 5 star reviews consisting of both Vine and non-Vine 5 star reviews. 
+-There was a total of 56 Vine (paid) 5 star reviews. 
+-There was a total of 21,061 non-Vine (unpaid) 5 star reviews.
 
 ![Deliverable 3 - Total Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154817980-8586f7d7-b472-4aa1-8b7c-d24e087ee34a.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Total%20Paid%205%20Star%20Reviews.png
@@ -167,7 +171,8 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ##**3. What percentage of Vine reviews were 5 stars?. What percentage of non-Vine reviews were 5 stars?**
 
-The percentage 5 star reviews for Vine (paid) participants was 52.3364 percent, while the percentage of 5 star reviews of non-Vine (unpaid) partcipants was 52.6850 percent.
+-The percentage 5 star reviews for Vine (paid) participants was 52.3364 percent. 
+-The percentage of 5 star reviews of non-Vine (unpaid) partcipants was 52.6850 percent.
 
 ![Deliverable 3 - Percentage of Paid 5 Star Reviews](https://user-images.githubusercontent.com/92111396/154818114-caaf0356-37da-4284-90f4-2d9b72478436.png)
 https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%203%20-%20Percentage%20of%20Paid%205%20Star%20Reviews.png
@@ -181,13 +186,7 @@ https://github.com/mcbride249/Amazon_Vine_Analysis/blob/main/Images/Deliverable%
 
 ## **Summary**
 
-1. A linear regression analysis identified ground clearance and vehicle length and to a lesser extent vehicle weight as the variables that are statistically unlikely to provide random amounts of variance to the linear model, meaning that all three coefficients have a significant impact on miles per gallon (mpg) for the MechaCar protypes.
-
-2. Summary statistics of the PSI of the suspension coils from the manufacturing lots stated Lot 1 to have  a variance of 0.9795918 and Lot 2 to have  a variance of 7.4693878 respectively, which both fall within the variance tolerance of 100-psi. Lot 3 however, had a variance of 170.2861224, which exceeds the variance toleration dictated in the design specifications
-
-3. The t-tests determined that there is no statistical difference between the sample of Lot 1 and the population mean, there was a strong correlation between the sample of Lot 2 and the population mean, and that there is a very weak correlation between the sample PSI of Lot 3 and the population mean.
-
-4. A number of variables were identified as possible indicators of vehicle performance of the MechaCar against vehicles from other manufacturers such as acceleration speed, cost, and fuel efficiency. In designing our own statistical test, it was decided that t-test would be used to test the hypothesis and would be measured against the normal correlation with a p-value of 0.05.
+1.
 
 
 
